@@ -5,7 +5,7 @@ public class Template {
 		Scanner in = new Scanner(System.in);
 		int t = in.nextInt();
 		while (t-- > 0) {
-			
+
 		}
 	}
 }
